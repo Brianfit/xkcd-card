@@ -31,3 +31,4 @@ Go to the Developers menu, click on "Check Configuration" and "Restart Home Assi
 Xkcd author
 guys in thread who made the original picture card
 
+
