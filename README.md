@@ -1,4 +1,4 @@
-# xkcd-card
+# xkcd-card [![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg?style=for-the-badge)](https://github.com/hacs/integration)
 
 This pulls the latest awesome xkcd comic into your Home Assistant dashboard. 
 
