@@ -61,13 +61,20 @@ xkcd is created by Randal Munro, and like this HACS Card the comic carries a Cre
 Thanks also to u/lau1406 and the guys and gals in <a href="https://www.reddit.com/r/homeassistant/comments/zwf4z1/i_integrated_xkcd_comics_into_home_assistant/">this Reddit thread </a> who created a card as camera element before HA changed the way that element works and broke it. 
 
 ## License
+<p align="center">
+<img src="https://imgs.xkcd.com/comics/copyright.jpg" alt="After reading Slashdot and BoingBoing, sometimes I just have to go outside" height="55%" width="55%">
+</p>
+This card was made by Brian Fitzgerald under a Creative Commons BY-NC license. You are free to use or modify the code under two conditions: you don't sell it and you mention I made it. 
+This card delivers content made by Randal Munro under the same conditions. 
 
-<a href="https://creativecommons.org/licenses/by-nc/2.0/deed.en"><img src = "https://github.com/Brianfit/images/blob/main/ccbync.jpg" height="25%" width="25%"></a>
+[![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ## Say Thanks
+This is one of many open source projects I create or contribute to. I buy coffee for folks who do stuff for free that I love, and I love it when people show appreciation to me for doing stuff I love. If more of the world worked like the buy-me-a-coffee economy of generosity and appreciation and work for the love of creating something, well we'd all make Kurt Vonnegut proud. 
 
+<p align="center">
 <a href="https://www.buymeacoffee.com/brianfit" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
+</p>
 
 
 
