@@ -20,7 +20,7 @@ class XKCDcard extends HTMLElement {
             if (hass.states['sensor.xkcd_data']) {
                 const title = hass.states['sensor.xkcd_data'].attributes.title;
                 const altText = hass.states['sensor.xkcd_data'].attributes.alt_text;
-                const imageUrl = `/local/xkcd-card/xkcd.png?_ts=${new Date().getTime()}`;
+                const imageUrl = `/local/community/xkcd-card/xkcd.png?_ts=${new Date().getTime()}`;
 
                 // Use JavaScript's template literals to construct the innerHTML
                 this.content.innerHTML = `

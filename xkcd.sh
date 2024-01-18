@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Directory where you want to save the image and JSON file
-save_directory="./"
+save_directory="/local/community/xkcd-card/"
 
 # URL of the XKCD JSON
 url="https://xkcd.com/info.0.json"
